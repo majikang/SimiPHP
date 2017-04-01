@@ -1,2 +1,2 @@
-# chal
-Just another PHP API framework
+# SimiPHP
+A PHP API framework
